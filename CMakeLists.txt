@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5.0)
-project(crimea_stm32)
+project(usb_simple)
 
 enable_language(C CXX ASM)
 
